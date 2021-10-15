@@ -1,0 +1,8 @@
+com\edureka\userms\service\UserService.class
+com\edureka\userms\config\OrdermsConfig.class
+com\edureka\userms\model\User.class
+com\edureka\userms\resource\UserResource.class
+com\edureka\userms\UsermsApplication.class
+com\edureka\userms\repository\UserRepository.class
+com\edureka\userms\service\UserServiceImpl.class
+com\edureka\userms\config\SwaggerConfig.class
